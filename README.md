@@ -1,1 +1,1 @@
-# text_difficulty_classification
+# TEXT DIFFICULTY CLASSIFICATION PROJECT
